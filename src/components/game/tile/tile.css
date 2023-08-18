@@ -1,0 +1,11 @@
+.tile {
+    height: 40px;
+    width: 40px;
+    -webkit-background-size: contain !important;
+    -moz-background-size: contain !important;
+    -o-background-size: contain !important;
+    background-size: contain !important;
+}
+span {
+    font-size: 0.2em;
+}
