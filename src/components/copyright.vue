@@ -1,5 +1,7 @@
 <template>
   <p>&copy; {{ year(2017) }} Nick</p>
+
+  <a rel="me" href="https://mastodon.social/@noobping">Mastodon</a>
 </template>
 
 <script>
